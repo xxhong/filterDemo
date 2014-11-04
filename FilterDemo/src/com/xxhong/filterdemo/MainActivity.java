@@ -31,7 +31,6 @@ public class MainActivity extends FragmentActivity {
 			
 			@Override
 			public void onItemClick(CustomFilterItem customFilter) {
-				
 			}
 		});
 
